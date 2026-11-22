@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "772fe015-c2d3-4276-97f8-87c2520ca3d8",
+    "runId": "ae25f8a1-f4b6-4b84-8c00-52140a420566",
+    "sessionId": "5e550000-0000-4000-8000-000000000001",
+    "type": "study",
+    "date": "2026-11-10T19:41:45.042Z",
+    "startedAt": "2026-11-10T19:40:48.965Z",
+    "durationSec": 56,
+    "totalQuestions": 5,
+    "correct": 3,
+    "incorrect": 2,
+    "results": [
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000001",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000002",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000003",
+        "correct": false
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000004",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000005",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "d63075e5-bbf9-4c9e-9aa6-bca7525363aa",
+    "runId": "e2e090ce-d9b8-4d04-a7ec-e59bc8fb2a9c",
+    "sessionId": "5e550000-0000-4000-8000-000000000001",
+    "type": "review",
+    "date": "2026-11-10T19:42:03.839Z",
+    "startedAt": "2026-11-10T19:41:52.885Z",
+    "durationSec": 11,
+    "totalQuestions": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000003",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000005",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "f63a2783-5b18-4843-a569-0c7f99bc4bf3",
+    "runId": "5911aa52-9316-4d25-b899-c04d3cc86b2b",
+    "sessionId": "5e550000-0000-4000-8000-000000000002",
+    "type": "study",
+    "date": "2026-11-10T19:44:24.459Z",
+    "startedAt": "2026-11-10T19:42:29.908Z",
+    "durationSec": 115,
+    "totalQuestions": 5,
+    "correct": 3,
+    "incorrect": 2,
+    "results": [
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000006",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000007",
+        "correct": false
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000008",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000009",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000010",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "0c6ef8a5-5b77-41e2-9dcf-e06bc9e61857",
+    "runId": "757b8bc9-3a73-4a28-84f0-8a013308da98",
+    "sessionId": "5e550000-0000-4000-8000-000000000002",
+    "type": "review",
+    "date": "2026-11-10T19:45:14.206Z",
+    "startedAt": "2026-11-10T19:44:47.207Z",
+    "durationSec": 27,
+    "totalQuestions": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000007",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0000000-0000-4000-8000-000000000010",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "18c47118-2bd5-4440-bd90-e308058b214b",
+    "runId": "0d18633a-998c-445e-8e9d-49d4b166729c",
+    "sessionId": "e11e5563-f5ba-4b8e-aa6c-727f4c245bfb",
+    "type": "study",
+    "date": "2026-11-16T22:06:54.586Z",
+    "startedAt": "2026-11-16T22:05:02.844Z",
+    "durationSec": 112,
+    "totalQuestions": 15,
+    "correct": 15,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "57866e6e-adae-48b0-a284-fe49d999a39a",
+        "correct": true
+      },
+      {
+        "flashcardId": "e2b578ae-4328-4ca4-8254-db35748e2ba1",
+        "correct": true
+      },
+      {
+        "flashcardId": "c0e486ec-83fc-4b54-8f66-9ba6cf3c9945",
+        "correct": true
+      },
+      {
+        "flashcardId": "b69e489c-088c-4972-9a58-a630be98905e",
+        "correct": true
+      },
+      {
+        "flashcardId": "f1e4a3ac-7918-4d43-92c9-09aa93753661",
+        "correct": true
+      },
+      {
+        "flashcardId": "74e00113-f725-4550-a7d7-c9e35f4ada38",
+        "correct": true
+      },
+      {
+        "flashcardId": "d2d6f1d3-1e85-4bff-8f7d-cf0800e22ef3",
+        "correct": true
+      },
+      {
+        "flashcardId": "fcfb7de4-106b-4d19-89be-897116484e4a",
+        "correct": true
+      },
+      {
+        "flashcardId": "dae0894a-dfd9-4048-85d5-a3ba3aeaf239",
+        "correct": true
+      },
+      {
+        "flashcardId": "e46317ff-1741-40f6-b5bd-86431e70ee63",
+        "correct": true
+      },
+      {
+        "flashcardId": "0a577936-50b7-4102-b8bb-2e448a9f2437",
+        "correct": true
+      },
+      {
+        "flashcardId": "32a83395-85c5-4f80-9a38-4be30d65b7ae",
+        "correct": true
+      },
+      {
+        "flashcardId": "8ff6f052-c1a3-43e9-8300-187ccab8bc37",
+        "correct": true
+      },
+      {
+        "flashcardId": "ef637490-8714-4d5b-b158-087c1ef60cb8",
+        "correct": true
+      },
+      {
+        "flashcardId": "aee0256d-c8b4-45f3-bdd6-1119ef401cda",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "3a87d03b-da0e-40cd-a56e-80735a0552b1",
+    "runId": "cf6ede59-6ed4-4327-8331-6bdf308edfb6",
+    "sessionId": "45cedbf1-9873-4d86-88ba-ecf878bc050c",
+    "type": "study",
+    "date": "2026-11-20T20:10:04.619Z",
+    "startedAt": "2026-11-20T20:02:27.489Z",
+    "durationSec": 457,
+    "totalQuestions": 50,
+    "correct": 42,
+    "incorrect": 8,
+    "results": [
+      {
+        "flashcardId": "5e0b7ac8-f63f-4d79-bc2e-c819c825c4be",
+        "correct": false
+      },
+      {
+        "flashcardId": "b8fb3aec-1238-46ed-9210-bfd69ec93237",
+        "correct": true
+      },
+      {
+        "flashcardId": "3deffec3-66e1-4141-891f-3ccabdf7d78e",
+        "correct": true
+      },
+      {
+        "flashcardId": "34f4e801-dad4-4df6-ac43-4f09de52ad62",
+        "correct": false
+      },
+      {
+        "flashcardId": "765bd55d-8512-4d66-93f3-8465ba0fe6d1",
+        "correct": false
+      },
+      {
+        "flashcardId": "6cafe4c2-6c85-4f50-a691-f5126089db59",
+        "correct": true
+      },
+      {
+        "flashcardId": "ed1530f1-1b62-41b1-b0f3-69dd2ad6a444",
+        "correct": true
+      },
+      {
+        "flashcardId": "d0c370e5-cd92-4e90-92d1-4485ba45253e",
+        "correct": true
+      },
+      {
+        "flashcardId": "a103bcc8-169e-495c-9632-a847ae81e2db",
+        "correct": true
+      },
+      {
+        "flashcardId": "3b203a8b-a46f-4c56-a119-ab6d86d49e7a",
+        "correct": true
+      },
+      {
+        "flashcardId": "2cd8a176-5488-47c7-9765-d39e05c31d0a",
+        "correct": true
+      },
+      {
+        "flashcardId": "101cf999-430e-4b80-83d7-1b7c567d3e7f",
+        "correct": false
+      },
+      {
+        "flashcardId": "8c561121-5703-4039-8bad-f5fb55e985e3",
+        "correct": false
+      },
+      {
+        "flashcardId": "fceb4533-9515-4bfe-a320-41b78aac07cc",
+        "correct": true
+      },
+      {
+        "flashcardId": "0e98b2de-ff67-4fb6-914a-5de13aa6d4f9",
+        "correct": false
+      },
+      {
+        "flashcardId": "c59d7d59-6ff8-4aa5-8ca8-e75c5ce29e21",
+        "correct": true
+      },
+      {
+        "flashcardId": "78a275ea-16ca-4d50-9f6b-962bf9e590ee",
+        "correct": true
+      },
+      {
+        "flashcardId": "6a5929f5-338d-44a9-97ea-242ef86817b5",
+        "correct": true
+      },
+      {
+        "flashcardId": "10b3da06-1229-4a2c-8625-828d40c64bc3",
+        "correct": true
+      },
+      {
+        "flashcardId": "22f86d2c-38e6-464b-b126-b1d2d1595a39",
+        "correct": true
+      },
+      {
+        "flashcardId": "8874706f-5237-4c13-bd7d-074f9d15db7d",
+        "correct": true
+      },
+      {
+        "flashcardId": "5325f78c-53f8-4156-8435-063c8e0f1436",
+        "correct": true
+      },
+      {
+        "flashcardId": "989c5ac8-7223-4e17-adf5-9076ab32c6bb",
+        "correct": true
+      },
+      {
+        "flashcardId": "fb1fdc38-77ea-42e0-99a6-cd633ac3164c",
+        "correct": true
+      },
+      {
+        "flashcardId": "909ffacf-0f2f-43b1-983f-1fbfa6f28043",
+        "correct": true
+      },
+      {
+        "flashcardId": "3297a47c-54da-4fbc-99ac-6b171b05066b",
+        "correct": true
+      },
+      {
+        "flashcardId": "8a172f99-5be9-4938-b803-eca9317f436b",
+        "correct": true
+      },
+      {
+        "flashcardId": "b28995c7-cd56-4d5c-90aa-8b2719239777",
+        "correct": true
+      },
+      {
+        "flashcardId": "76c5e40d-9b5c-47c0-9620-7857d5d9352f",
+        "correct": true
+      },
+      {
+        "flashcardId": "c080885e-3cf8-4614-b230-a37bf4540c8d",
+        "correct": true
+      },
+      {
+        "flashcardId": "e3393dfe-d065-4f03-bb44-88ed6c3d568b",
+        "correct": true
+      },
+      {
+        "flashcardId": "63e252d7-6b61-4f46-9363-b9a33a4de6e6",
+        "correct": true
+      },
+      {
+        "flashcardId": "3177209c-33c0-4ad8-b99f-0a4158b4db9d",
+        "correct": true
+      },
+      {
+        "flashcardId": "e00b4dd4-bae4-4ea7-bd4c-726440cb67c6",
+        "correct": true
+      },
+      {
+        "flashcardId": "b2258bd6-0c14-41fc-bf19-d7036b75bedb",
+        "correct": true
+      },
+      {
+        "flashcardId": "e43a1996-8466-428b-bb51-084b599a05fe",
+        "correct": true
+      },
+      {
+        "flashcardId": "773b589b-cc4c-47a3-b38c-75ed7cc8629f",
+        "correct": false
+      },
+      {
+        "flashcardId": "e2bfd005-66a8-40c5-9281-8aaf34364013",
+        "correct": true
+      },
+      {
+        "flashcardId": "6378afa4-0faa-4e5b-a625-d631e55d77b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "b0c4cbf4-6c9b-4f53-9e33-2de9fe6a6e44",
+        "correct": true
+      },
+      {
+        "flashcardId": "1be6c8c5-f4e9-43f6-b9af-3cbcb82cd056",
+        "correct": true
+      },
+      {
+        "flashcardId": "11856745-b860-4e33-b803-12501e2da88a",
+        "correct": true
+      },
+      {
+        "flashcardId": "4caed311-38e4-464e-b023-e1a4e8a493e5",
+        "correct": true
+      },
+      {
+        "flashcardId": "70f4b366-32a1-452b-864c-ca75fe0a0959",
+        "correct": true
+      },
+      {
+        "flashcardId": "5f7b7755-fa0e-4314-a1a9-39a409aa83c8",
+        "correct": true
+      },
+      {
+        "flashcardId": "c26cf250-4994-4506-95dc-9818689e286e",
+        "correct": true
+      },
+      {
+        "flashcardId": "825f7d16-7fd4-4a08-965e-474a9c7121b4",
+        "correct": true
+      },
+      {
+        "flashcardId": "42840f52-9eb7-45c6-92c5-5fd5f7c9b146",
+        "correct": true
+      },
+      {
+        "flashcardId": "58e06ce2-5044-4090-953a-dd0a877e601e",
+        "correct": false
+      },
+      {
+        "flashcardId": "362259d5-172e-433f-9071-8f1ebd666324",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "b3ea8f87-87ad-4dc9-9045-5a2a91db9bce",
+    "runId": "32f4d79b-34d8-451d-bf2b-1d932855c5a4",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T20:25:13.850Z",
+    "startedAt": "2026-11-20T20:23:59.139Z",
+    "durationSec": 75,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "07e3ee02-0b6b-40f8-ab96-b79ccee7f750",
+    "runId": "1ebfe79a-8af9-4df5-9d26-457c3b76ebac",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T20:53:57.009Z",
+    "startedAt": "2026-11-20T20:53:23.289Z",
+    "durationSec": 34,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "ed02e7d0-6c2c-4d6d-a3d4-5f1ef724a568",
+    "runId": "d60f945f-2439-429a-b663-b64acff863a2",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T20:55:07.358Z",
+    "startedAt": "2026-11-20T20:54:41.222Z",
+    "durationSec": 26,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "0a416a1a-32c3-4e08-ad2f-202de9641308",
+    "runId": "af662622-4f3e-46e3-8661-eaf9c90e31a3",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T21:01:33.896Z",
+    "startedAt": "2026-11-20T21:01:09.904Z",
+    "durationSec": 24,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "b766a307-d41d-4a69-8b13-09e0d8c08060",
+    "runId": "2a500478-4434-4bf5-92f0-4e51513b9ad0",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T21:02:07.847Z",
+    "startedAt": "2026-11-20T21:01:46.815Z",
+    "durationSec": 21,
+    "totalQuestions": 7,
+    "correct": 7,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "705c2925-ec94-4eb7-b422-c93593094d2e",
+    "runId": "1670acf8-71a7-40fb-b559-cc20d8ae917d",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T21:02:48.382Z",
+    "startedAt": "2026-11-20T21:02:24.557Z",
+    "durationSec": 24,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "201d6124-f556-41d8-b405-d855caa4747d",
+    "runId": "4bdc69d7-b19c-4b73-ad12-e5829882bacf",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T21:06:00.802Z",
+    "startedAt": "2026-11-20T21:05:41.746Z",
+    "durationSec": 19,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "525d2994-4234-43c7-8167-84e4ef6daf51",
+    "runId": "1866cde4-098b-4337-99db-47d00f1da267",
+    "sessionId": null,
+    "type": "review",
+    "date": "2026-11-20T21:24:45.061Z",
+    "startedAt": "2026-11-20T21:20:57.109Z",
+    "durationSec": 228,
+    "totalQuestions": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "5e0b7ac8-f63f-4d79-bc2e-c819c825c4be",
+        "correct": true
+      },
+      {
+        "flashcardId": "34f4e801-dad4-4df6-ac43-4f09de52ad62",
+        "correct": true
+      },
+      {
+        "flashcardId": "765bd55d-8512-4d66-93f3-8465ba0fe6d1",
+        "correct": true
+      },
+      {
+        "flashcardId": "101cf999-430e-4b80-83d7-1b7c567d3e7f",
+        "correct": true
+      },
+      {
+        "flashcardId": "8c561121-5703-4039-8bad-f5fb55e985e3",
+        "correct": true
+      },
+      {
+        "flashcardId": "0e98b2de-ff67-4fb6-914a-5de13aa6d4f9",
+        "correct": true
+      },
+      {
+        "flashcardId": "773b589b-cc4c-47a3-b38c-75ed7cc8629f",
+        "correct": true
+      },
+      {
+        "flashcardId": "58e06ce2-5044-4090-953a-dd0a877e601e",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "e03f09a0-6efa-4987-b4d5-e8e7fb371051",
+    "runId": "d785facf-fc73-4bbd-8c9d-8b375e6c2900",
+    "sessionId": "45cedbf1-9873-4d86-88ba-ecf878bc050c",
+    "type": "study",
+    "date": "2026-11-20T21:43:08.128Z",
+    "startedAt": "2026-11-20T21:28:51.169Z",
+    "durationSec": 857,
+    "totalQuestions": 50,
+    "correct": 48,
+    "incorrect": 2,
+    "results": [
+      {
+        "flashcardId": "42840f52-9eb7-45c6-92c5-5fd5f7c9b146",
+        "correct": true
+      },
+      {
+        "flashcardId": "e43a1996-8466-428b-bb51-084b599a05fe",
+        "correct": true
+      },
+      {
+        "flashcardId": "b2258bd6-0c14-41fc-bf19-d7036b75bedb",
+        "correct": true
+      },
+      {
+        "flashcardId": "34f4e801-dad4-4df6-ac43-4f09de52ad62",
+        "correct": false
+      },
+      {
+        "flashcardId": "1be6c8c5-f4e9-43f6-b9af-3cbcb82cd056",
+        "correct": true
+      },
+      {
+        "flashcardId": "fb1fdc38-77ea-42e0-99a6-cd633ac3164c",
+        "correct": true
+      },
+      {
+        "flashcardId": "63e252d7-6b61-4f46-9363-b9a33a4de6e6",
+        "correct": true
+      },
+      {
+        "flashcardId": "5e0b7ac8-f63f-4d79-bc2e-c819c825c4be",
+        "correct": true
+      },
+      {
+        "flashcardId": "3deffec3-66e1-4141-891f-3ccabdf7d78e",
+        "correct": true
+      },
+      {
+        "flashcardId": "989c5ac8-7223-4e17-adf5-9076ab32c6bb",
+        "correct": true
+      },
+      {
+        "flashcardId": "fceb4533-9515-4bfe-a320-41b78aac07cc",
+        "correct": true
+      },
+      {
+        "flashcardId": "e00b4dd4-bae4-4ea7-bd4c-726440cb67c6",
+        "correct": true
+      },
+      {
+        "flashcardId": "4caed311-38e4-464e-b023-e1a4e8a493e5",
+        "correct": true
+      },
+      {
+        "flashcardId": "11856745-b860-4e33-b803-12501e2da88a",
+        "correct": true
+      },
+      {
+        "flashcardId": "5325f78c-53f8-4156-8435-063c8e0f1436",
+        "correct": true
+      },
+      {
+        "flashcardId": "e3393dfe-d065-4f03-bb44-88ed6c3d568b",
+        "correct": true
+      },
+      {
+        "flashcardId": "773b589b-cc4c-47a3-b38c-75ed7cc8629f",
+        "correct": true
+      },
+      {
+        "flashcardId": "362259d5-172e-433f-9071-8f1ebd666324",
+        "correct": true
+      },
+      {
+        "flashcardId": "825f7d16-7fd4-4a08-965e-474a9c7121b4",
+        "correct": true
+      },
+      {
+        "flashcardId": "8a172f99-5be9-4938-b803-eca9317f436b",
+        "correct": true
+      },
+      {
+        "flashcardId": "5f7b7755-fa0e-4314-a1a9-39a409aa83c8",
+        "correct": true
+      },
+      {
+        "flashcardId": "101cf999-430e-4b80-83d7-1b7c567d3e7f",
+        "correct": true
+      },
+      {
+        "flashcardId": "e2bfd005-66a8-40c5-9281-8aaf34364013",
+        "correct": true
+      },
+      {
+        "flashcardId": "a103bcc8-169e-495c-9632-a847ae81e2db",
+        "correct": true
+      },
+      {
+        "flashcardId": "c26cf250-4994-4506-95dc-9818689e286e",
+        "correct": true
+      },
+      {
+        "flashcardId": "ed1530f1-1b62-41b1-b0f3-69dd2ad6a444",
+        "correct": true
+      },
+      {
+        "flashcardId": "c59d7d59-6ff8-4aa5-8ca8-e75c5ce29e21",
+        "correct": false
+      },
+      {
+        "flashcardId": "c080885e-3cf8-4614-b230-a37bf4540c8d",
+        "correct": true
+      },
+      {
+        "flashcardId": "58e06ce2-5044-4090-953a-dd0a877e601e",
+        "correct": true
+      },
+      {
+        "flashcardId": "6378afa4-0faa-4e5b-a625-d631e55d77b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "78a275ea-16ca-4d50-9f6b-962bf9e590ee",
+        "correct": true
+      },
+      {
+        "flashcardId": "765bd55d-8512-4d66-93f3-8465ba0fe6d1",
+        "correct": true
+      },
+      {
+        "flashcardId": "22f86d2c-38e6-464b-b126-b1d2d1595a39",
+        "correct": true
+      },
+      {
+        "flashcardId": "6a5929f5-338d-44a9-97ea-242ef86817b5",
+        "correct": true
+      },
+      {
+        "flashcardId": "8c561121-5703-4039-8bad-f5fb55e985e3",
+        "correct": true
+      },
+      {
+        "flashcardId": "b0c4cbf4-6c9b-4f53-9e33-2de9fe6a6e44",
+        "correct": true
+      },
+      {
+        "flashcardId": "6cafe4c2-6c85-4f50-a691-f5126089db59",
+        "correct": true
+      },
+      {
+        "flashcardId": "3b203a8b-a46f-4c56-a119-ab6d86d49e7a",
+        "correct": true
+      },
+      {
+        "flashcardId": "2cd8a176-5488-47c7-9765-d39e05c31d0a",
+        "correct": true
+      },
+      {
+        "flashcardId": "909ffacf-0f2f-43b1-983f-1fbfa6f28043",
+        "correct": true
+      },
+      {
+        "flashcardId": "76c5e40d-9b5c-47c0-9620-7857d5d9352f",
+        "correct": true
+      },
+      {
+        "flashcardId": "70f4b366-32a1-452b-864c-ca75fe0a0959",
+        "correct": true
+      },
+      {
+        "flashcardId": "d0c370e5-cd92-4e90-92d1-4485ba45253e",
+        "correct": true
+      },
+      {
+        "flashcardId": "b28995c7-cd56-4d5c-90aa-8b2719239777",
+        "correct": true
+      },
+      {
+        "flashcardId": "3177209c-33c0-4ad8-b99f-0a4158b4db9d",
+        "correct": true
+      },
+      {
+        "flashcardId": "0e98b2de-ff67-4fb6-914a-5de13aa6d4f9",
+        "correct": true
+      },
+      {
+        "flashcardId": "8874706f-5237-4c13-bd7d-074f9d15db7d",
+        "correct": true
+      },
+      {
+        "flashcardId": "10b3da06-1229-4a2c-8625-828d40c64bc3",
+        "correct": true
+      },
+      {
+        "flashcardId": "b8fb3aec-1238-46ed-9210-bfd69ec93237",
+        "correct": true
+      },
+      {
+        "flashcardId": "3297a47c-54da-4fbc-99ac-6b171b05066b",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "d9eadd39-9490-4c04-b754-c9ec30fa9fb6",
+    "runId": "1c00bbd1-b1ac-49cd-b026-c8c698de078a",
+    "sessionId": "45cedbf1-9873-4d86-88ba-ecf878bc050c",
+    "type": "review",
+    "date": "2026-11-20T21:50:07.211Z",
+    "startedAt": "2026-11-20T21:47:13.344Z",
+    "durationSec": 174,
+    "totalQuestions": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "34f4e801-dad4-4df6-ac43-4f09de52ad62",
+        "correct": true
+      },
+      {
+        "flashcardId": "c59d7d59-6ff8-4aa5-8ca8-e75c5ce29e21",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "2d00fa27-0f0e-462f-926f-a773222cabf7",
+    "runId": "b35c0de6-a4de-4c81-acf6-f69260d48194",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-20T21:53:27.730Z",
+    "startedAt": "2026-11-20T21:50:28.168Z",
+    "durationSec": 180,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "e05fb027-6b18-46df-b02a-5f70a1d88b99",
+    "runId": "22bb981b-0895-48e9-a666-702dc51da87b",
+    "sessionId": "50706100-3706-4de7-8062-55c22ebc2071",
+    "type": "study",
+    "date": "2026-11-21T20:08:47.962Z",
+    "startedAt": "2026-11-21T20:08:24.808Z",
+    "durationSec": 23,
+    "totalQuestions": 10,
+    "correct": 10,
+    "incorrect": 0,
+    "results": [
+      {
+        "flashcardId": "4f830bd0-390c-45a3-a2b3-4af6502019d7",
+        "correct": true
+      },
+      {
+        "flashcardId": "ad12befa-3e13-4f07-a983-3ab4abbdf11f",
+        "correct": true
+      },
+      {
+        "flashcardId": "1d75ec33-9d4a-4f33-af12-4e69510f8425",
+        "correct": true
+      },
+      {
+        "flashcardId": "e273dfc3-9b11-4f16-92ad-c583c4b2b516",
+        "correct": true
+      },
+      {
+        "flashcardId": "4834652c-d2c4-4a04-acc0-2e249f71f9c2",
+        "correct": true
+      },
+      {
+        "flashcardId": "8f124afa-8d59-4d37-ad2d-509449bf2546",
+        "correct": true
+      },
+      {
+        "flashcardId": "afb14926-12d3-411f-ad2a-1e95241ffbb3",
+        "correct": true
+      },
+      {
+        "flashcardId": "7b2dc4da-7c8d-4a04-815f-ef58184c2449",
+        "correct": true
+      },
+      {
+        "flashcardId": "4ff9e819-62a7-4f54-9a57-5b418565611e",
+        "correct": true
+      },
+      {
+        "flashcardId": "42a4db2e-0702-498f-85d9-ac4e8375b0b7",
+        "correct": true
+      }
+    ]
+  }
+]

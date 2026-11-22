@@ -1,0 +1,8 @@
+{
+  "name": "flashstudy",
+  "version": "1.0.0",
+  "description": "App de estudio con flashcards y persistencia en JSON",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e11e5563-f5ba-4b8e-aa6c-727f4c245bfb",
+    "name": "frases en inglés que se usan al conocer a alguien",
+    "description": "puedes decir estas frases cuando conoces a alguien",
+    "createdAt": "2026-11-16T22:02:07.012Z"
+  },
+  {
+    "id": "a2499969-054c-4240-8ecb-31281a118a89",
+    "name": "Inglés en la cocina",
+    "description": "Frases útiles en inglés para usar mientras cocinas.",
+    "createdAt": "2026-11-16T22:35:31.466Z"
+  },
+  {
+    "id": "45cedbf1-9873-4d86-88ba-ecf878bc050c",
+    "name": "Tablas de multiplicar del 5 al 9",
+    "description": "Tablas de multiplicar del 5, 6, 7, 8 y 9 (del 1 al 10)",
+    "createdAt": "2026-11-20T20:01:01.772Z"
+  },
+  {
+    "id": "50706100-3706-4de7-8062-55c22ebc2071",
+    "name": "técnica del casillero mental",
+    "description": "écnica para memorizar numeros mas rapido",
+    "createdAt": "2026-11-20T20:19:44.471Z"
+  }
+]
